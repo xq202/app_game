@@ -1,5 +1,3 @@
-from ast import Del
-from cProfile import run
 import pygame, sys
 from pygame.locals import *
 import random
